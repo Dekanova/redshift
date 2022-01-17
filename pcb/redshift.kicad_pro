@@ -381,8 +381,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "redshift.step",
+      "vrml": "redshift.wrl"
     },
     "page_layout_descr_file": ""
   },
