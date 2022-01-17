@@ -2471,7 +2471,6 @@
     )
   )
 
-
   (junction (at 31.75 93.98) (diameter 0) (color 0 0 0 0)
     (uuid 0a716ec9-b3a2-4ea3-89f0-766c33df015d)
   )
@@ -4037,7 +4036,7 @@
     (property "Reference" "C18" (id 0) (at 48.26 160.02 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7uF" (id 1) (at 45.72 156.21 90)
+    (property "Value" "10uF" (id 1) (at 45.72 156.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 43.18 158.75 0)
@@ -5050,8 +5049,8 @@
     (pin "1" (uuid 74da4c7c-8b67-468f-9da3-8490a12cdeb8))
     (pin "2" (uuid b0ff9a3e-cc50-45a9-8a86-aeec2449e905))
     (pin "3" (uuid cf67a977-c508-4305-aa85-22a5b3042bc3))
-    (pin "4" (uuid d14a19ee-6713-4712-89ab-0f5977ec2bef))
-    (pin "4" (uuid d14a19ee-6713-4712-89ab-0f5977ec2bef))
+    (pin "4" (uuid d14a19ee-6713-4712-89ab-0f5977ec2bf0))
+    (pin "4" (uuid d14a19ee-6713-4712-89ab-0f5977ec2bf0))
   )
 
   (symbol (lib_id "power:+3V3") (at 92.71 180.34 180) (unit 1)
@@ -6209,7 +6208,7 @@
     (property "Reference" "C20" (id 0) (at 54.61 160.02 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "33uF" (id 1) (at 58.42 156.21 90)
+    (property "Value" "22uF" (id 1) (at 58.42 156.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 55.88 158.75 0)
@@ -6648,13 +6647,13 @@
       (reference "C17") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/1c6e6a8f-561c-4abf-a030-a3365c246fe3"
-      (reference "C18") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C18") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/70c6498b-606e-4663-a27b-eaa14427c153"
       (reference "C19") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/fabfb7e0-0b70-4304-872d-bc262985986b"
-      (reference "C20") (unit 1) (value "33uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C20") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/919c11b9-e621-4828-914e-3b3bd0bcd0a7"
       (reference "C21") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
