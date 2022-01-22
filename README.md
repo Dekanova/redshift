@@ -11,7 +11,7 @@ This is the central repository for work on the Redshift PCB.
 - KiCad 6.0+ must be installed
 - Openinput library from kicad content&lib manager in KiCad
 
-**NOTE:** Encoder 3d encoder is intentionally not included to not infringe on copyright. If you want it, models are freely downloaded from Alps Alpine [website](https://tech.alpsalpine.com/e/products/cad.html) under EC10E
+**NOTE:** Encoder 3d file is intentionally not included. If you wish to add it, models are freely downloaded from Alps Alpine [website](https://tech.alpsalpine.com/e/products/cad.html) under EC10E.
 
 
 
