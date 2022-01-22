@@ -2,7 +2,7 @@
 
 This is the central repository for work on the Redshift PCB.
 
-## Supports
+## Features
 - 8kHz polling (USB 2.0 HighSpeed)
 - usb-C port
 - PAW 3399
