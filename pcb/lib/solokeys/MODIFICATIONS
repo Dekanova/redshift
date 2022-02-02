@@ -1,0 +1,7 @@
+1/17/2022 - mriise:
+
+Original git repo from https://github.com/solokeys/solo-hw/tree/fb5f6b4b8dd7732dcec339ded0cc36fe3dec9654
+
+- Remove everything except for the LPC55 BGA 98 footprint and step file
+- Put move placement indicator dot closer to center
+- Add courtyard
