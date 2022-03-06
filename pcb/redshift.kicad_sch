@@ -401,6 +401,18 @@
           (name "SHIELD" (effects (font (size 1.27 1.27))))
           (number "S1" (effects (font (size 1.27 1.27))))
         )
+        (pin passive line (at -7.62 -22.86 90) (length 5.08) hide
+          (name "SHIELD" (effects (font (size 1.27 1.27))))
+          (number "S2" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -7.62 -22.86 90) (length 5.08) hide
+          (name "SHIELD" (effects (font (size 1.27 1.27))))
+          (number "S3" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -7.62 -22.86 90) (length 5.08) hide
+          (name "SHIELD" (effects (font (size 1.27 1.27))))
+          (number "S4" (effects (font (size 1.27 1.27))))
+        )
       )
     )
     (symbol "Connector_Generic:Conn_01x05" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
@@ -5893,7 +5905,7 @@
     (uuid db91ded9-e685-4c4e-ad4e-cb4be4f91c6b)
     (property "Reference" "J1" (id 0) (at 25.4 13.8135 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 25.4 16.5886 0))
-    (property "Footprint" "dekanova:GCT_USB4105-GF-A" (id 2) (at 29.21 35.56 0)
+    (property "Footprint" "GCT_USB:GCT_USB4105-GF-A" (id 2) (at 29.21 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 29.21 35.56 0)
@@ -5916,6 +5928,9 @@
     (pin "B8" (uuid 58c005b6-6e50-4fc2-9acb-ce195450e776))
     (pin "B9" (uuid 262e5a50-f3b9-4460-b23f-a4ed98d34790))
     (pin "S1" (uuid c11397e4-75c5-4d0c-a6c1-44995f0f2a5b))
+    (pin "S4" (uuid 92ebf8bc-ac05-4106-bac7-7690309e4760))
+    (pin "S2" (uuid 1680c791-9c96-4aa8-93b2-3d8249d97de6))
+    (pin "S3" (uuid 61c107f4-6757-48ea-893d-15d0c6c34516))
   )
 
   (symbol (lib_id "power:+3V3") (at 128.27 190.5 270) (unit 1)
@@ -6728,7 +6743,7 @@
       (reference "IC1") (unit 1) (value "LPC5526JEV98") (footprint "solokeys:BGA98C50P13X13_700X700X97N")
     )
     (path "/db91ded9-e685-4c4e-ad4e-cb4be4f91c6b"
-      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "dekanova:GCT_USB4105-GF-A")
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "GCT_USB:GCT_USB4105-GF-A")
     )
     (path "/ea094ec6-1a72-453f-8b6b-c368642f2a93"
       (reference "J2") (unit 1) (value "Side") (footprint "Connector_JST:JST_SH_BM05B-SRSS-TB_1x05-1MP_P1.00mm_Vertical")
