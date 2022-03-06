@@ -3,3 +3,6 @@
 *.bak
 *.kicad_prl
 fp-info-cache
+pcb/lib/LIB_LPC5528JEV98K
+## contact about usage
+pcb/lib/BM05B-SRSS-TB.STEP 
