@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name "LPC5528JEV98K")(type "Legacy")(uri "${KIPRJMOD}/lib/LIB_LPC5528JEV98K/LPC5528JEV98K/KiCad/LPC5528JEV98K.lib")(options "")(descr ""))
 )

@@ -13,7 +13,8 @@ This is the central repository for work on the Redshift PCB.
 
 **NOTE:** Encoder 3d file is intentionally not included. If you wish to add it, models are freely downloaded from Alps Alpine [website](https://tech.alpsalpine.com/e/products/cad.html) under EC10E.
 
-
+## Board Notes
+- If connecting USB and debug connectors at the same time, ensure debug supply voltage is under 5v. (some JTAG debuggers have this) 5v supply from debug pins are OK as long as USB is unplugged.
 
 ### Credits
 A huge thanks to openinput for their generic [KiCad lib](https://github.com/openinput-fw/openinput-kicad-library), as well as their [fully developed PCBs](https://github.com/openinput-fw/sammy) which this PCB is largely based off of.
