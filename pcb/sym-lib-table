@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name "LPC5528JEV98K")(type "Legacy")(uri "${KIPRJMOD}/lib/LD39015M33R/2022-09-18_23-05-02.lib")(options "")(descr "")(disabled))
-  (lib (name "LD39015M33R")(type "KiCad")(uri "${KIPRJMOD}/lib/LD39015M33R/2022-09-18_23-05-02.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC5365-3.3YC5-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/MIC5365-3.3YC5-TR/MIC5365-3.3YC5-TR.kicad_sym")(options "")(descr ""))
 )
