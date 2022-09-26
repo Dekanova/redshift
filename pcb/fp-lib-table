@@ -1,6 +1,5 @@
 (fp_lib_table
   (lib (name "SOT143B")(type "KiCad")(uri "${KIPRJMOD}/lib/SOT143B/footprints.pretty")(options "")(descr ""))
-  (lib (name "MIC5528-3")(type "KiCad")(uri "${KIPRJMOD}/lib/MIC5528-3.3YMT-TR")(options "")(descr ""))
   (lib (name "solokeys")(type "KiCad")(uri "${KIPRJMOD}/lib/solokeys")(options "")(descr ""))
   (lib (name "GCT_USB")(type "KiCad")(uri "${KIPRJMOD}/lib/GCT_USB")(options "")(descr ""))
   (lib (name "MIC5365-3.3YC5-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/MIC5365-3.3YC5-TR")(options "")(descr ""))
