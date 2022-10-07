@@ -56,5 +56,5 @@ jobs:
         branch: main
         folder: Generated
         repository-name: Dekanova/redshift-docs
-        token: ${{ secrets.TOKEN }}
+        ssh-key: ${{ secrets.DEPLOY_KEY }}
 
