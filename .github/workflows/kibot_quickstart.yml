@@ -28,7 +28,7 @@ jobs:
     - name: Run aaahhhHHH
       uses: INTI-CMNB/KiBot@v2_k6
       with:
-        kicad: 6
+        quickstart: YES
         dir: generated
     - name: Retrieve results
       uses: actions/upload-artifact@v2
