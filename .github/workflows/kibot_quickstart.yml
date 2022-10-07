@@ -7,12 +7,12 @@ on:
     paths:
       - '*.kicad_sch'
       - '*.kicad_pcb'
-      - '.github/workflows/kibot_quick_start.yml'
+      - '.github/workflows/kibot_quickstart.yml'
   pull_request:
     paths:
       - '*.kicad_sch'
       - '*.kicad_pcb'
-      - '.github/workflows/kibot_quick_start.yml'
+      - '.github/workflows/kibot_quickstart.yml'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
