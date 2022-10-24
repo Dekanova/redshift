@@ -6503,7 +6503,7 @@
     (property "Footprint" "Connector_JST:JST_SH_BM05B-SRSS-TB_1x05-1MP_P1.00mm_Vertical" (id 2) (at 251.46 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 251.46 67.31 0)
+    (property "Datasheet" "http://www.jst-mfg.com/product/pdf/eng/eSH.pdf" (id 3) (at 251.46 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0573a826-0d0a-4440-b626-2ec4323f6ab6))

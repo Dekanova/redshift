@@ -2,8 +2,11 @@
 *-backups
 *.bak
 *.kicad_prl
+redshift.step
 fp-info-cache
 pcb/lib/LIB_LPC5528JEV98K
 [#]auto_saved_files[#]
 ## contact about usage
-pcb/lib/BM05B-SRSS-TB.STEP 
+pcb/lib/BM05B-SRSS-TB.STEP
+pcb/lib/EC10E12_H07.STEP
+pcb/lib/VFBGA98_SOT1982-1_NXP.step
