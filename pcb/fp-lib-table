@@ -3,4 +3,5 @@
   (lib (name "solokeys")(type "KiCad")(uri "${KIPRJMOD}/lib/solokeys")(options "")(descr ""))
   (lib (name "GCT_USB")(type "KiCad")(uri "${KIPRJMOD}/lib/GCT_USB")(options "")(descr ""))
   (lib (name "MIC5365-3.3YC5-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/MIC5365-3.3YC5-TR")(options "")(descr ""))
+  (lib (name "Seiko Epson Q22FA12800400")(type "KiCad")(uri "${KIPRJMOD}/lib/crystal/Seiko Epson Q22FA12800400.pretty")(options "")(descr ""))
 )
