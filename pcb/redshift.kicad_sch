@@ -5154,7 +5154,7 @@
     (uuid 731a5074-fe0d-4ba0-b7c6-8159d452c80b)
     (property "Reference" "L1" (id 0) (at 184.15 144.78 0))
     (property "Value" "4u7H" (id 1) (at 185.42 142.24 0))
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 185.42 140.97 0)
+    (property "Footprint" "Inductor_SMD:L_0805_2012Metric" (id 2) (at 185.42 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 185.42 140.97 0)
@@ -7231,7 +7231,7 @@
       (reference "J4") (unit 1) (value "Conn_ARM_JTAG_SWD_10") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD")
     )
     (path "/731a5074-fe0d-4ba0-b7c6-8159d452c80b"
-      (reference "L1") (unit 1) (value "4u7H") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "L1") (unit 1) (value "4u7H") (footprint "Inductor_SMD:L_0805_2012Metric")
     )
     (path "/f8af7a81-fe99-4098-bd22-d9a97701e637"
       (reference "R1") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0402_1005Metric")
