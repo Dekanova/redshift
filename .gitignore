@@ -5,6 +5,7 @@
 redshift.step
 fp-info-cache
 pcb/lib/LIB_LPC5528JEV98K
+pcb/jlcpcb/
 [#]auto_saved_files[#]
 ## contact about usage
 pcb/lib/BM05B-SRSS-TB.STEP
