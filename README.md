@@ -15,6 +15,7 @@ This is the central repository for work on the Redshift PCB.
 
 ## Board Notes
 - If connecting USB and debug connectors at the same time, ensure debug supply voltage is under 5v. (some JTAG debuggers have this) 5v supply from debug pins are OK as long as USB is unplugged.
+- PcbNew grid size used is 0.1mm
 
 ### Credits
 A huge thanks to openinput for their generic [KiCad lib](https://github.com/openinput-fw/openinput-kicad-library), as well as their [fully developed PCBs](https://github.com/openinput-fw/sammy) which this PCB is largely based off of.
